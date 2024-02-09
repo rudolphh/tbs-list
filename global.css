@@ -212,3 +212,9 @@ main :last-child,
 .accordion:target .title a:focus-visible {
 	background-color: hsl(183, 100%, 93%);
 }
+
+.store-links {
+	text-decoration: none;
+	color: white;
+	font-size: 0.7em;
+}
