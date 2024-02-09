@@ -55,6 +55,10 @@ main > h3 {
     color: #fff
 }
 
+main > h4 {
+	padding: 0 10px 0 20px;
+}
+
 ::selection {
 	background-color: rgba(0, 0, 0, 0.4);
 }
